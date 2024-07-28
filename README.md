@@ -1,4 +1,5 @@
-Description
+Description:
+
 In this project, we will see the representation of how agents communicate and behave on a given platform.
 
 The main actors for this application are:
